@@ -4,7 +4,7 @@ GNOME Concepts
 
 Here's the current situation, GNOME Shell is awesomely extensible but there are no good (as in 'OMG! What a good idea!') extensions appearing, why?
 
-It could be that GS is not as extensible as I think. But it's highly likely that the 3rd-party devs have no idea on what to do with it besides bringing GNOME2-era features like menus and indicators. That's when I and the rest of us come into the picture, what if we put all of our good ideas in a single place so developers who want to work on a new cool extension can choose one and start working on it? No duplicate efforts. No frustration. Everybody wins.
+It could be that GNOME Shell is not as extensible as I think. But it's highly likely that the 3rd-party devs have no idea on what to do with it besides bringing GNOME2-era features like menus and indicators. That's when I and the rest of us come into the picture, what if we put all of our good ideas in a single place so developers who want to work on a new cool extension can choose one and start working on it? No duplicate efforts. No frustration. Everybody wins.
 
 I hope this solves the issue.﻿
 
