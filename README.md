@@ -23,7 +23,7 @@ A: You can draw them however you like. You can also discribe it with text and I 
 
 **Q: I'm a developper and I want to take an idea and make it availble upstream instead of making an extension, is that possible?**
 
-A: Yep. See `How to start working on a project` above and do everything it says, and instead of linking to a repo add a link to your Bugzilla report and update the Wiki page when your patch is commited upstream. 
+A: Yep. See `How to start working on a project` above and do everything it says, and instead of linking to a repo add a link to your Bugzilla report and update the Wiki page when your patch is committed upstream. 
 
 **Q: We are a distro/GS fork, can we take ideas from here?**
 
