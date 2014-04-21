@@ -4,13 +4,15 @@ An idea bank.
 
 
 
-#How to submit ideas
+##How to submit ideas
 
-#How to start working on a project
+##How to start working on a project
 
-#How to report bugs
+##How to report bugs
 
-#FAQ
+##FAQ
+
+
 
 
 
