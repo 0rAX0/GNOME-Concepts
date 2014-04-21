@@ -1,6 +1,6 @@
 GNOME Concepts
 =====================
-An idea bank.
+###An idea bank.
 
 
 
