@@ -19,7 +19,7 @@ GNOME Concepts
 A: Of course, but if you're based on GNOME Shell please make the ideas you work on available for the rest of us; either by sending patches upstream or by making extensions. If you're a distro (i.e. not using GS/fork) do mention us, please. ;)
 
 **Q: I disagree with some ideas, what can I do?**
-A: Report a bug, mentioning the idea's #Number and propose your superior solution or whatever.
+A: Report a bug, mentioning the idea's #number and propose your superior solution or whatever.
 
 
 
