@@ -10,11 +10,11 @@ I hope this solves the issue.﻿
 
 ##How to submit ideas
 
-To submit your idea you can [Fork](https://help.github.com/articles/fork-a-repo) the repo and commit whatever you have and send a pull request. If you don't want to deal with Git [email me](mailto:the.red.shortcut@gmail.com).
+To submit your idea(s) you can [Fork](https://help.github.com/articles/fork-a-repo) the repo and commit whatever you have and send a pull request. If you don't want to deal with Git [email me](mailto:the.red.shortcut@gmail.com).
 
 ##How to start working on a project
 
-Great! You've seen an idea(s) that you'd like to make happen, you're awesome! First, you need to ckeck the [status](https://github.com/0rAX0/GNOME-Concepts/wiki/Status) to see if the idea is availble for you to work on if it's not you can always help the existing developer(s) maintain and improve their work, you how this works. If it _is_ available, then make sure to change the status in the Wiki page and provide a link to your repo so people can follow. 
+Great! You've seen an idea that you'd like to make happen, you're awesome! First, you need to ckeck the [status](https://github.com/0rAX0/GNOME-Concepts/wiki/Status) to see if the idea is availble for you to work on if it's not you can always help the existing developer(s) maintain and improve their work, you how this works. If it _is_ available, then make sure to change the status in the Wiki page and provide a link to your repo so people can follow. 
 Also, if you don't or can't work on your project anymore please make sure to update and Wiki page so someone else can take over.
 
 ##How to report bugs
