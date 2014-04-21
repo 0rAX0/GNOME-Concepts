@@ -12,9 +12,9 @@ GNOME Concepts
 
 ##FAQ
 
-**Q: I have plenty of super ideas but I can't make fancy mockups, what do I do?
+**Q: I have a plenty of super ideas but I can't make fancy mockups, what do I do?
 
-A: 
+A:  
 
 
 **Q: We are a distro/GS fork, can we take ideas from here?**
