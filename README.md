@@ -10,7 +10,8 @@ To submit your idea you can [Fork!](https://help.github.com/articles/fork-a-repo
 
 ##How to start working on a project
 
-Great! You've seen an idea that you'd like to make happen, you're awesome! First, you need to ckeck the [status!](https://github.com/0rAX0/GNOME-Concepts/wiki/Status) to see if the idea is availble for you to work on if it's not you can always help the existing developer(s) maintain and improve their work, you how this works. If it is, 
+Great! You've seen an idea that you'd like to make happen, you're awesome! First, you need to ckeck the [status!](https://github.com/0rAX0/GNOME-Concepts/wiki/Status) to see if the idea is availble for you to work on if it's not you can always help the existing developer(s) maintain and improve their work, you how this works. If it _is_ available, then make sure to change the status in the Wiki page and provide a link to your repo so people can follow. 
+Also, if you don't think  
 
 ##How to report bugs
 
@@ -20,6 +21,9 @@ Great! You've seen an idea that you'd like to make happen, you're awesome! First
 
 A: You can draw them however you like. You can also discribe it with text and I or someone will try to draw it for you. But please try to make whatever you submit as clean and clear as possible.
 
+**Q: I'm a developper and I want to take an idea and make it availble upstream instead of making an extension, is that possible?**
+
+A: Yep. See `How to start working on a project` above and do everything it says, and instead of linking to a repo add a link to your Bugzilla report and update the Wiki page when your patch is commited upstream. 
 
 **Q: We are a distro/GS fork, can we take ideas from here?**
 
