@@ -10,7 +10,7 @@ To submit your idea you can [Fork!](https://help.github.com/articles/fork-a-repo
 
 ##How to start working on a project
 
-If you think
+Great! You've seen an idea that you'd like to make happen, you're awesome! First, you need to ckeck the status to see if the idea is availble for you to work on if it's not you can always help the existing developer(s) maintain and improve their work, you how this works. If it is, 
 
 ##How to report bugs
 
