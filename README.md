@@ -10,7 +10,7 @@ I hope this solves the issue.﻿
 
 ##How to submit ideas
 
-To submit your idea(s) you can [Fork](https://help.github.com/articles/fork-a-repo) the repo and commit whatever you have and send a pull request. If you don't want to deal with Git [email me](mailto:the.red.shortcut@gmail.com).
+To submit your idea(s) you can [Fork](https://help.github.com/articles/fork-a-repo) the repo and commit whatever you have and send a pull request. If you don't want to deal with Git, [email me](mailto:the.red.shortcut@gmail.com).
 
 ##How to start working on a project
 
