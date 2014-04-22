@@ -14,10 +14,12 @@ To submit your idea(s) you can [Fork](https://help.github.com/articles/fork-a-re
 
 ##How to start working on a project
 
-Great! You've seen an idea and you'd like to make happen, you're awesome! First, you need to ckeck the [status](https://github.com/0rAX0/GNOME-Concepts/wiki/Status) to see if it is availble for you to work on; if it's not then you can always help the existing developer(s) maintain and improve their work, you know how this works. If it _is_ available, then make sure to change the status in the Wiki page and provide a link to your repo so people can follow. 
-Also, if you don't or can't work on your project anymore please make sure to update and Wiki page so someone else can take over.
+Great! You've seen an idea and you'd like to make it happen, you're awesome! First, you need to ckeck the [status](https://github.com/0rAX0/GNOME-Concepts/wiki/Status) to see if it is availble for you to work on; if it's not then you can always help the existing developer(s) maintain and improve their work, you know how this works. If it _is_ available, then make sure to change the status in the Wiki page and provide a link to your repo so people can follow. 
+One more thing, if you don't or can't work on your project anymore please make sure you update the Wiki page so someone else can take over. And thank you for your work. :)
 
 ##How to report bugs
+
+To report a new issue, add the prefix [Idea #N] and a descriptive title. Then it's just yet another bug report, right? ;)
 
 ##FAQ
 
