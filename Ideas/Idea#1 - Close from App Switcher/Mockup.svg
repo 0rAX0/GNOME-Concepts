@@ -7,7 +7,7 @@
       <inkscape:path-effect is_visible="true" id="path-effect6268" effect="spiro" />
       <inkscape:path-effect effect="spiro" id="path-effect6264" is_visible="true" />
    </defs>
-   <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.5" inkscape:cx="493.57483" inkscape:cy="376.3484" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:showpageshadow="false" inkscape:window-width="1366" inkscape:window-height="741" inkscape:window-x="0" inkscape:window-y="27" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true" inkscape:snap-center="true" inkscape:snap-object-midpoints="true" inkscape:snap-page="true" inkscape:object-nodes="true">
+   <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.5" inkscape:cx="493.57483" inkscape:cy="1016.3484" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:showpageshadow="false" inkscape:window-width="1366" inkscape:window-height="741" inkscape:window-x="0" inkscape:window-y="27" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true" inkscape:snap-center="true" inkscape:snap-object-midpoints="true" inkscape:snap-page="true" inkscape:object-nodes="true">
       <sodipodi:guide orientation="0,1" position="674,1224" id="guide11971" />
       <sodipodi:guide orientation="0,1" position="698,548" id="guide11973" />
    </sodipodi:namedview>
@@ -16,12 +16,12 @@
          <cc:Work rdf:about="">
             <dc:format>image/svg+xml</dc:format>
             <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            <dc:title />
+            <dc:title></dc:title>
          </cc:Work>
       </rdf:RDF>
    </metadata>
    <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(215.18304,-216.56)">
-      <path style="color:black;fill:#79338d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" d="m -215.18304,216.56 0,853.0874 0,853.1358 1078.0312,0 0,-853.1358 0,-853.0874 -1078.0312,0 z" id="rect6142" inkscape:connector-curvature="0" />
+      <path style="color:black;fill:#79338d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" d="m -215.18304,216.56 0,853.0874 0,853.1358 1078.0312,0 0,-853.1358 0,-853.0874 -1078.0312,0 z" id="rect6142" inkscape:connector-curvature="0" inkscape:export-filename="/home/rax/SparkleShare/GNOME-Concepts/Idea#1 - Close from App Switcher/Mockup.png" inkscape:export-xdpi="96.058907" inkscape:export-ydpi="96.058907" />
       <rect style="color:black;fill:#fafaf7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="rect6163" width="629" height="202.18521" x="9.3370361" y="391.58276" rx="17" ry="17" />
       <rect style="color:black;fill:#79338d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="rect6170" width="153" height="153" x="247.33707" y="416.17538" rx="18" ry="18" />
       <g transform="translate(-26.162933,557.60284)" id="g6204">
