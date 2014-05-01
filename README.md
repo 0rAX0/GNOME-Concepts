@@ -35,6 +35,10 @@ A: Yep. See `How to start working on a project` above and do everything it says,
 
 A: Of course, but if you're based on GNOME Shell please make the ideas you work on available for the rest of us; either by sending patches upstream or by making extensions. If you're a distro (i.e. not using GS/fork) do mention us, please. ;)
 
+**Q: Some ideas seem incomplete or too complex to be presented by two images, is that intended?**
+
+A: Yes. It is intended in a sense that this repo only contains the ideas, which are open for discussion and/or expansion. Discussions and suggestions are welcome.
+
 **Q: I disagree with some ideas, what can I do?**
 
 A: Report a bug (see above), mentioning the idea's #number and propose your superior solution or whatever.
