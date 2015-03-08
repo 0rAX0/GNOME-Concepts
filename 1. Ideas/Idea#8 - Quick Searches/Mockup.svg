@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1082px"
+   height="2880px"
+   viewBox="0 0 1082 2880"
+   version="1.1"
+   id="svg10"
+   inkscape:version="0.91+devel+osxmenu r12898"
+   sodipodi:docname="Mockup.svg">
+  <metadata
+     id="metadata116">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     id="namedview114"
+     showgrid="false"
+     inkscape:zoom="0.23177389"
+     inkscape:cx="-40.503499"
+     inkscape:cy="1121.4858"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Page-1" />
+  <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title12">Artboard 1@2x</title>
+  <desc
+     id="desc14">Created with Sketch.</desc>
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4770"
+       x="-0.19242219"
+       width="1.3848444"
+       y="-0.31170653"
+       height="1.6234131">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="28.702976"
+         id="feGaussianBlur4772" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4774"
+       x="-0.21460169"
+       width="1.4292034"
+       y="-0.37036098"
+       height="1.740722">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="28.702976"
+         id="feGaussianBlur4776" />
+    </filter>
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     sketch:type="MSPage">
+    <g
+       id="Artboard-1"
+       sketch:type="MSArtboardGroup">
+      <path
+         d="M2,-2 L2,1438.45917 L2,2879 L1080.0312,2879 L1080.0312,1438.45917 L1080.0312,-2 L2,-2 L2,-2 Z"
+         id="rect6142"
+         sketch:type="MSShapeGroup"
+         fill="#9B80CB"
+         style="" />
+      <text
+         id="Providing-a-way-of-p"
+         sketch:type="MSTextLayer"
+         font-size="26"
+         font-weight="526"
+         font-family="Open Sans"
+         fill="#FAFAF7">
+        <tspan
+           x="189"
+           y="2716.0117"
+           id="tspan22">Providing a way of performing searches and other </tspan>
+        <tspan
+           x="189"
+           y="2752.0117"
+           id="tspan24">queries from the desktop without having to go through </tspan>
+        <tspan
+           x="189"
+           y="2788.0117"
+           id="tspan26">the Overview.</tspan>
+      </text>
+      <g
+         id="text11814"
+         sketch:type="MSLayerGroup"
+         transform="translate(189.000000, 2608.011700)"
+         font-size="35.0864445"
+         font-weight="260"
+         font-family="Open Sans"
+         fill="#FFFFFF">
+        <text
+           id="Quick-Searches"
+           sketch:type="MSTextLayer">
+          <tspan
+             x="0.14813"
+             y="38.6141"
+             id="tspan30">Quick Searches</tspan>
+        </text>
+      </g>
+      <g
+         id="g8106-+-Rectangle-4-+-Rectangle-5"
+         sketch:type="MSLayerGroup"
+         transform="translate(156.000000, 225.000000)">
+        <g
+           id="g8106"
+           transform="translate(0.183040, 0.397600)"
+           sketch:type="MSShapeGroup">
+          <path
+             d="M767.09505,33.8498033 C767.589859,33.1968722 767.884205,32.3832472 767.884205,31.501121 L767.884205,4.60661701 C767.884205,2.45592109 766.14314,0.7122 763.995428,0.7122 L4.53384181,0.7122 C2.39494359,0.7122 0.645065,2.45578989 0.645065,4.60661701 L0.645065,31.501121 C0.645065,32.9300092 1.41358188,34.1792562 2.55928,34.8568433 L2.55928,33.1435298 C2.55928,27.8847684 6.8236859,23.6217 12.0874486,23.6217 L757.566881,23.6217 C762.829144,23.6217 767.09505,27.8873877 767.09505,33.1435298 L767.09505,33.8498033 Z"
+             id="rect6931"
+             fill="#FAFAF7" />
+          <rect
+             id="rect6161"
+             x="0.645061"
+             y="0.7122"
+             width="768.375"
+             height="432"
+             rx="7.0710859"
+             stroke-width="4"
+             stroke="#FAFAF7" />
+        </g>
+        <rect
+           id="Rectangle-4"
+           sketch:type="MSShapeGroup"
+           x="64"
+           y="184"
+           width="321"
+           height="186"
+           rx="8"
+           stroke-width="3"
+           stroke="#9B80CB"
+           fill="#FAFAF7" />
+        <rect
+           id="Rectangle-5"
+           sketch:type="MSShapeGroup"
+           x="352"
+           y="74"
+           width="358"
+           height="221"
+           rx="8"
+           stroke-width="3"
+           stroke="#9B80CB"
+           fill="#FAFAF7" />
+      </g>
+      <g
+         id="g8106-+-Rectangle-4-+-Rectangle-6"
+         sketch:type="MSLayerGroup"
+         transform="translate(156.000000, 1137.000000)">
+        <rect
+           id="rect39"
+           sketch:type="MSShapeGroup"
+           x="64"
+           y="184"
+           width="321"
+           height="186"
+           rx="8"
+           stroke-width="3"
+           stroke="#9B80CB"
+           fill="#FAFAF7" />
+        <rect
+           id="rect41"
+           sketch:type="MSShapeGroup"
+           x="352"
+           y="74"
+           width="358"
+           height="221"
+           rx="8"
+           stroke-width="3"
+           stroke="#9B80CB"
+           fill="#FAFAF7" />
+        <rect
+           id="Rectangle-11"
+           sketch:type="MSShapeGroup"
+           x="3"
+           y="22"
+           width="766"
+           height="105"
+           fill-opacity="0.659999907"
+           fill="#D3D3D3" />
+        <g
+           id="g44"
+           transform="translate(0.183040, 0.397600)"
+           sketch:type="MSShapeGroup">
+          <path
+             d="M767.09505,33.8498033 C767.589859,33.1968722 767.884205,32.3832472 767.884205,31.501121 L767.884205,4.60661701 C767.884205,2.45592109 766.14314,0.7122 763.995428,0.7122 L4.53384181,0.7122 C2.39494359,0.7122 0.645065,2.45578989 0.645065,4.60661701 L0.645065,31.501121 C0.645065,32.9300092 1.41358188,34.1792562 2.55928,34.8568433 L2.55928,33.1435298 C2.55928,27.8847684 6.8236859,23.6217 12.0874486,23.6217 L757.566881,23.6217 C762.829144,23.6217 767.09505,27.8873877 767.09505,33.1435298 L767.09505,33.8498033 Z"
+             id="path46"
+             fill="#FAFAF7" />
+          <rect
+             id="rect48"
+             x="0.645061"
+             y="0.7122"
+             width="768.375"
+             height="432"
+             rx="7.0710859"
+             stroke-width="4"
+             stroke="#FAFAF7" />
+        </g>
+        <rect
+           id="Rectangle-12"
+           sketch:type="MSShapeGroup"
+           x="261"
+           y="63"
+           width="251"
+           height="23"
+           rx="11.5"
+           ry="11.5"
+           style="fill:#ffffff;fill-opacity:0.68000004;stroke:#ffffff;stroke-width:3" />
+      </g>
+      <g
+         id="g8106-+-Rectangle-4-+-Rectangle-7"
+         sketch:type="MSLayerGroup"
+         transform="translate(156.000000, 1857.000000)">
+        <rect
+           id="rect52"
+           sketch:type="MSShapeGroup"
+           x="64"
+           y="184"
+           width="321"
+           height="186"
+           rx="8"
+           stroke-width="3"
+           stroke="#9B80CB"
+           fill="#FAFAF7"
+           style="filter:url(#filter4774)" />
+        <rect
+           id="rect54"
+           sketch:type="MSShapeGroup"
+           x="352"
+           y="74"
+           width="358"
+           height="221"
+           rx="8"
+           stroke-width="3"
+           stroke="#9B80CB"
+           fill="#FAFAF7"
+           style="filter:url(#filter4770)" />
+        <rect
+           id="rect56"
+           sketch:type="MSShapeGroup"
+           x="3"
+           y="22"
+           width="766"
+           height="411"
+           fill-opacity="0.659999907"
+           fill="#D3D3D3" />
+        <g
+           id="g58"
+           transform="translate(0.183040, 0.397600)"
+           sketch:type="MSShapeGroup">
+          <path
+             d="M767.09505,33.8498033 C767.589859,33.1968722 767.884205,32.3832472 767.884205,31.501121 L767.884205,4.60661701 C767.884205,2.45592109 766.14314,0.7122 763.995428,0.7122 L4.53384181,0.7122 C2.39494359,0.7122 0.645065,2.45578989 0.645065,4.60661701 L0.645065,31.501121 C0.645065,32.9300092 1.41358188,34.1792562 2.55928,34.8568433 L2.55928,33.1435298 C2.55928,27.8847684 6.8236859,23.6217 12.0874486,23.6217 L757.566881,23.6217 C762.829144,23.6217 767.09505,27.8873877 767.09505,33.1435298 L767.09505,33.8498033 Z"
+             id="path60"
+             fill="#FAFAF7" />
+          <rect
+             id="rect62"
+             x="0.645061"
+             y="0.7122"
+             width="768.375"
+             height="432"
+             rx="7.0710859"
+             stroke-width="4"
+             stroke="#FAFAF7" />
+        </g>
+        <rect
+           id="rect64"
+           sketch:type="MSShapeGroup"
+           x="261"
+           y="63"
+           width="251"
+           height="23"
+           rx="11.5"
+           ry="11.5"
+           style="fill:#ffffff;fill-opacity:0.68000004;stroke:#ffffff;stroke-width:3" />
+      </g>
+      <text
+         id="Recent-GNOME-release"
+         sketch:type="MSTextLayer"
+         font-size="23"
+         font-weight="normal"
+         font-family="Open Sans"
+         fill="#FAFAF7">
+        <tspan
+           x="189"
+           y="726"
+           id="tspan67">Recent GNOME releases have ‘search providers’ which help </tspan>
+        <tspan
+           x="189"
+           y="758"
+           id="tspan69">display results in the Shell from various applications without </tspan>
+        <tspan
+           x="189"
+           y="790"
+           id="tspan71">having to open them. To get to search for something, make a </tspan>
+        <tspan
+           x="189"
+           y="822"
+           id="tspan73">calculation, check for the weather, or see the time in another city </tspan>
+        <tspan
+           x="189"
+           y="854"
+           id="tspan75">a user would have to go to the Overview which either shows </tspan>
+        <tspan
+           x="189"
+           y="886"
+           id="tspan77">them recent applications or open windows. What if users can </tspan>
+        <tspan
+           x="189"
+           y="918"
+           id="tspan79">quickly do those actions without having to “load” all the Overview </tspan>
+        <tspan
+           x="189"
+           y="950"
+           id="tspan81">but a portion of it? The search bar.</tspan>
+      </text>
+      <text
+         id="Using-an-alternative"
+         sketch:type="MSTextLayer"
+         font-size="23"
+         font-weight="normal"
+         font-family="Open Sans"
+         fill="#FAFAF7">
+        <tspan
+           x="189"
+           y="1638"
+           id="tspan84">Using an alternative keyboard shortcut, users can bring up the </tspan>
+        <tspan
+           x="189"
+           y="1670"
+           id="tspan86">Shell’s search bar and do their queries from there.</tspan>
+      </text>
+      <g
+         id="Group"
+         sketch:type="MSLayerGroup"
+         transform="translate(300.000000, 2001.000000)"
+         fill="#FFFFFF">
+        <rect
+           id="Rectangle-31"
+           sketch:type="MSShapeGroup"
+           x="0"
+           y="0"
+           width="44"
+           height="44"
+           rx="8" />
+        <rect
+           id="Rectangle-20"
+           sketch:type="MSShapeGroup"
+           x="62"
+           y="0"
+           width="300"
+           height="9" />
+        <rect
+           id="Rectangle-21"
+           sketch:type="MSShapeGroup"
+           x="62"
+           y="20"
+           width="409"
+           height="9" />
+        <rect
+           id="Rectangle-22"
+           sketch:type="MSShapeGroup"
+           x="62"
+           y="40"
+           width="370"
+           height="9" />
+        <rect
+           id="Rectangle-23"
+           sketch:type="MSShapeGroup"
+           x="62"
+           y="60"
+           width="230"
+           height="9" />
+      </g>
+      <g
+         id="Group-2"
+         sketch:type="MSLayerGroup"
+         transform="translate(300.000000, 2106.000000)"
+         fill="#FFFFFF">
+        <rect
+           id="rect95"
+           sketch:type="MSShapeGroup"
+           x="0"
+           y="0"
+           width="44"
+           height="44"
+           rx="8" />
+        <rect
+           id="rect97"
+           sketch:type="MSShapeGroup"
+           x="62"
+           y="0"
+           width="300"
+           height="9" />
+        <rect
+           id="rect99"
+           sketch:type="MSShapeGroup"
+           x="62"
+           y="20"
+           width="409"
+           height="9" />
+        <rect
+           id="rect101"
+           sketch:type="MSShapeGroup"
+           x="62"
+           y="40"
+           width="370"
+           height="9" />
+        <rect
+           id="rect103"
+           sketch:type="MSShapeGroup"
+           x="62"
+           y="60"
+           width="230"
+           height="9" />
+      </g>
+      <rect
+         id="Rectangle-24"
+         sketch:type="MSShapeGroup"
+         x="262"
+         y="2198"
+         width="560"
+         height="2"
+         fill="#FFFFFF" />
+      <g
+         id="g106"
+         sketch:type="MSLayerGroup"
+         transform="translate(354.000000, 2224.000000)"
+         fill="#FFFFFF">
+        <rect
+           id="Rectangle-25"
+           sketch:type="MSShapeGroup"
+           x="0"
+           y="0"
+           width="44"
+           height="44"
+           rx="8" />
+        <rect
+           id="Rectangle-26"
+           sketch:type="MSShapeGroup"
+           x="66"
+           y="0"
+           width="44"
+           height="44"
+           rx="8" />
+        <rect
+           id="Rectangle-28"
+           sketch:type="MSShapeGroup"
+           x="132"
+           y="0"
+           width="44"
+           height="44"
+           rx="8" />
+        <rect
+           id="Rectangle-27"
+           sketch:type="MSShapeGroup"
+           x="198"
+           y="0"
+           width="44"
+           height="44"
+           rx="8" />
+        <rect
+           id="Rectangle-30"
+           sketch:type="MSShapeGroup"
+           x="264"
+           y="0"
+           width="44"
+           height="44"
+           rx="8" />
+        <rect
+           id="Rectangle-29"
+           sketch:type="MSShapeGroup"
+           x="332"
+           y="0"
+           width="44"
+           height="44"
+           rx="8" />
+      </g>
+    </g>
+  </g>
+</svg>
